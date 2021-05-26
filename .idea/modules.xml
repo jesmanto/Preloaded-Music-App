@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Preloaded_Music_App.iml" filepath="$PROJECT_DIR$/.idea/modules/Preloaded_Music_App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Preloaded_Music_App.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Preloaded_Music_App.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/src/androidTest/androidTest.iml" filepath="$PROJECT_DIR$/app/src/androidTest/androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/src/main/main.iml" filepath="$PROJECT_DIR$/app/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/src/test/test.iml" filepath="$PROJECT_DIR$/app/src/test/test.iml" />
+    </modules>
+  </component>
+</project>
